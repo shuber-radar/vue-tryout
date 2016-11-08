@@ -6,14 +6,19 @@
   height: 100%;
   width: 100%;
 
-  .display-users {
+  .user-display {
     float: right;
     padding-right: 50px;
   }
 
-  .user-form {
-    padding-bottom: 20px;
+  .user-forms {
     width: 250px;
+    padding: 10px;
+  }
+
+  .user-edit {
+    padding: 10px;
+    padding-bottom: 20px;
 
     button {
       float: right;
@@ -24,14 +29,8 @@
       content: '';
       clear: both;
     }
-
-    &.success {
-      animation-name: fade-out;
-      animation-duration: 0.4s;
-    }
   }
-
-  &.success {
+  .success {
     animation-name: fade-out;
     animation-duration: 0.4s;
   }

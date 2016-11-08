@@ -1,7 +1,9 @@
 <h1>Users</h1>
 <div id="users" v-bind:class="{ success: success }">
-  <user-display v-for="user in users" :user="user" class="display-users"></user-display>
-  <div>
-    <user-form v-for="user in users" :user="user" v-on:success="saveSuccess"></user-form>
+  <div class="user-display">
+    <ul>
+      <user-display v-for="user in users" :user="user"></user-display>
+    </ul>
   </div>
+  <user-forms :users="users"></user-forms>
 </div>

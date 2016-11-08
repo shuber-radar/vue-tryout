@@ -14,6 +14,6 @@
 //= require jquery_ujs
 //= require vue/dist/vue.js
 //= require vue-resource/dist/vue-resource.js
-//= require_tree .
+//= require users/users.js
 
 Vue.http.headers.common['X-CSRF-Token'] = $('[name="csrf-token"]').attr('content');
