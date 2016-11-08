@@ -1,0 +1,1237 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"reset",
+				"resetSuccess"
+			],
+			[
+				"va",
+				"validate"
+			],
+			[
+				"vulner",
+				"vulnerability"
+			],
+			[
+				"id",
+				"incident_id"
+			],
+			[
+				"di",
+				"digits"
+			],
+			[
+				"selec",
+				"select_list"
+			],
+			[
+				"otp",
+				"option"
+			],
+			[
+				"se",
+				"service_asset_finding_status"
+			],
+			[
+				"gruo",
+				"groups_with_children"
+			],
+			[
+				"parent",
+				"parent_group"
+			],
+			[
+				"unau",
+				"unauthorized_user_2"
+			],
+			[
+				"gr",
+				"groups_with_children"
+			],
+			[
+				"grup",
+				"groups"
+			],
+			[
+				"admin",
+				"admin_user"
+			],
+			[
+				"Gro",
+				"Group"
+			],
+			[
+				"gropu",
+				"groups"
+			],
+			[
+				"gro",
+				"group"
+			],
+			[
+				"grop",
+				"groups"
+			],
+			[
+				"assign",
+				"assignable_groups"
+			],
+			[
+				"assig",
+				"assignable_groups"
+			],
+			[
+				"not",
+				"not_contained_service_asset_finding_status_change"
+			],
+			[
+				"inactive",
+				"inactive_user"
+			],
+			[
+				"re",
+				"receive_email"
+			],
+			[
+				"message",
+				"message_email_selection"
+			],
+			[
+				"service",
+				"service_asset_finding_status_change"
+			],
+			[
+				"receive",
+				"receive_email"
+			],
+			[
+				"user",
+				"user_with_lastname_only"
+			],
+			[
+				"email",
+				"email_name"
+			],
+			[
+				"not_autho",
+				"not_authorized_user_2"
+			],
+			[
+				"user_with",
+				"user_with_password"
+			],
+			[
+				"pas",
+				"password"
+			],
+			[
+				"unread",
+				"unread_notification"
+			],
+			[
+				"read",
+				"read_notification"
+			],
+			[
+				"messages",
+				"messages_counts"
+			],
+			[
+				"hashed",
+				"hashed_password"
+			],
+			[
+				"password",
+				"password_ok"
+			],
+			[
+				"status",
+				"status_counts"
+			],
+			[
+				"statu",
+				"status_counts"
+			],
+			[
+				"expecte",
+				"expected_hash"
+			],
+			[
+				"expec",
+				"expected_csv_2"
+			],
+			[
+				"all",
+				"all_open_count"
+			],
+			[
+				"get",
+				"get_raw"
+			],
+			[
+				"conti",
+				"contain_exactly"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "app/assets/javascripts/application.js",
+			"settings":
+			{
+				"buffer_size": 797,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/javascripts/users.js",
+			"settings":
+			{
+				"buffer_size": 2015,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/users.scss",
+			"settings":
+			{
+				"buffer_size": 484,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/assets/stylesheets/application.css",
+			"settings":
+			{
+				"buffer_size": 732,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/users/index.html.erb",
+			"settings":
+			{
+				"buffer_size": 266,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/controllers/users_controller.rb",
+			"settings":
+			{
+				"buffer_size": 1777,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 354.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ric",
+				"Material Theme: Configuration"
+			],
+			[
+				"git blame",
+				"Git: Blame"
+			],
+			[
+				"copy",
+				"File: Copy Path"
+			],
+			[
+				"toggle",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"toggle linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"markdown",
+				"Set Syntax: Markdown"
+			],
+			[
+				"git: b",
+				"Git: Blame"
+			],
+			[
+				"linter",
+				"SublimeLinter: Toggle Linter"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"sublime",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"remove pack",
+				"Package Control: Remove Package"
+			],
+			[
+				"javascript",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"colorsublem",
+				"Colorsublime: Install Theme"
+			],
+			[
+				"ruby",
+				"Set Syntax: Ruby"
+			],
+			[
+				"git diff",
+				"Git: Diff Current File"
+			],
+			[
+				"git status",
+				"Git: Status"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL (Rails)"
+			],
+			[
+				"remvoe",
+				"Package Control: Remove Package"
+			],
+			[
+				"remove p",
+				"Package Control: Remove Package"
+			]
+		],
+		"width": 512.0
+	},
+	"console":
+	{
+		"height": 185.0,
+		"history":
+		[
+			"view.settings().get('font_face')",
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/shuber/code/vue",
+		"/home/shuber/code/vue/app",
+		"/home/shuber/code/vue/app/assets",
+		"/home/shuber/code/vue/app/assets/javascripts",
+		"/home/shuber/code/vue/app/assets/stylesheets",
+		"/home/shuber/code/vue/app/controllers",
+		"/home/shuber/code/vue/app/views",
+		"/home/shuber/code/vue/app/views/users",
+		"/home/shuber/code/vue/config"
+	],
+	"file_history":
+	[
+		"/home/shuber/code/vue/app/controllers/_user.json.jbuilder",
+		"/home/shuber/.local/share/Trash/files/_user.json.jbuilder",
+		"/home/shuber/code/vue/app/controllers/employees_controller.rb",
+		"/home/shuber/code/vue/app/views/employees/index.html.erb",
+		"/home/shuber/code/vue/app/assets/javascripts/employees.js",
+		"/home/shuber/code/vue/app/views/layouts/application.html.erb",
+		"/home/shuber/code/radar-management-center-frontend/app/assets/javascripts/application.js",
+		"/home/shuber/code/radar-management-center-frontend/app/models/occurrence.rb",
+		"/home/shuber/code/radar-management-center-frontend/Gemfile",
+		"/home/shuber/code/radar-management-center-frontend/package.json",
+		"/home/shuber/code/radar-management-center-frontend/yarn.lock",
+		"/home/shuber/code/radar-management-center-frontend/app/assets/javascripts/findings.js",
+		"/home/shuber/code/radar-management-center-frontend/app/assets/stylesheets/application.scss",
+		"/home/shuber/code/radar-management-center-frontend/node_modules/jquery/dist/jquery.js",
+		"/home/shuber/code/radar-management-center-frontend/app/controllers/logmule/rules_controller.rb",
+		"/home/shuber/code/radar-management-center-frontend/config/application.rb",
+		"/home/shuber/code/radar-management-center-frontend/app/models/logmule/rule.rb",
+		"/home/shuber/code/radar-management-center-frontend/app/assets/javascripts/radarservices-edit-ciaa.js",
+		"/home/shuber/code/radar-management-center-frontend/app/assets/javascripts/generic.js",
+		"/home/shuber/code/radar-management-center-frontend/app/views/documents/index.html.slim",
+		"/home/shuber/code/radar-management-center-frontend/app/assets/javascripts/documents.js",
+		"/home/shuber/code/radar-management-center-frontend/app/helpers/vulnerability_scan_comparisons_helper.rb",
+		"/home/shuber/code/radar-management-center-frontend/app/assets/javascripts/service_assets.js",
+		"/home/shuber/code/radar-management-center-frontend/node_modules/select2/select2.js",
+		"/home/shuber/code/radar-management-center-frontend/app/assets/javascripts/service_asset_findings.js",
+		"/home/shuber/code/radar-management-center-frontend/bower.json",
+		"/home/shuber/code/radar-management-center-frontend/node_modules/select2/select2.css",
+		"/home/shuber/code/radar-management-center-frontend/app/helpers/service_asset_helper.rb",
+		"/home/shuber/code/radar-management-center-frontend/app/assets/javascripts/lib/jquery.validate.min.js",
+		"/home/shuber/code/radar-management-center-frontend/.bowerrc",
+		"/home/shuber/code/radar-management-center-frontend/Gemfile.lock",
+		"/home/shuber/code/radar-management-center-frontend/app/assets/javascripts/lib/jquery-2.1.1.min.js",
+		"/home/shuber/code/radar-management-center-frontend/config/boot.rb",
+		"/home/shuber/code/radar-management-center-frontend/app/assets/javascripts/manual_sources.js",
+		"/home/shuber/code/radar-management-center-frontend/app/assets/javascripts/validate_settings.js",
+		"/home/shuber/code/radar-management-center-frontend/node_modules/jquery-validation/README.md",
+		"/home/shuber/code/radar-management-center-frontend/node_modules/jquery-validation/dist/jquery.validate.js",
+		"/home/shuber/code/radar-management-center-frontend/app/views/layouts/application.html.slim",
+		"/home/shuber/code/radar-management-center-frontend/app/assets/javascripts/testfile.js",
+		"/home/shuber/code/radar-management-center-frontend/app/assets/javascripts/test-file.js",
+		"/home/shuber/code/radar-management-center-frontend/app/assets/javascripts/application.js.es6",
+		"/home/shuber/code/radar-management-center-frontend/app/assets/javascripts/foo.es6",
+		"/home/shuber/code/radar-management-center-frontend/app/assets/javascripts/foo.js",
+		"/home/shuber/code/.eslintrc",
+		"/home/shuber/code/radar-management-center-frontend/app/views/vulnerability_scans/_table_filters.html.slim",
+		"/home/shuber/code/radar-management-center-frontend/app/models/user.rb",
+		"/home/shuber/code/radar-management-center-frontend/app/models/asset_lookup_conf.rb",
+		"/home/shuber/code/radar-management-center-frontend/config/routes.rb",
+		"/home/shuber/code/radar-management-center-frontend/app/controllers/manual_sources_controller.rb",
+		"/home/shuber/code/radar-management-center-frontend/app/views/report_periods/index.html.slim",
+		"/home/shuber/code/radar-management-center-frontend/app/adapters/tables/vulnerability_scan_table.rb",
+		"/home/shuber/code/radar-management-center-frontend/app/controllers/vulnerability_scan_comparisons_controller.rb",
+		"/home/shuber/code/radar-management-center-frontend/app/controllers/service_asset_findings_controller.rb",
+		"/home/shuber/code/radar-management-center-frontend/app/views/manual_sources/_asset_form.html.slim",
+		"/home/shuber/code/radar-management-center-frontend/app/views/service_asset_findings/table_index.html.slim",
+		"/home/shuber/code/radar-management-center-frontend/app/views/findings/show.html.slim",
+		"/home/shuber/code/radar-management-center-frontend/app/assets/stylesheets/comparison.scss",
+		"/home/shuber/code/radar-management-center-frontend/app/views/vulnerability_scan_comparisons/_body.html.slim",
+		"/home/shuber/code/radar-management-center-frontend/app/assets/stylesheets/general.scss",
+		"/home/shuber/code/radar-management-center-frontend/app/models/incident.rb",
+		"/home/shuber/code/radar-management-center-frontend/app/models/service_asset_finding.rb",
+		"/home/shuber/code/radar-management-center-frontend/app/assets/javascripts/lib/select2.js",
+		"/home/shuber/code/radar-management-center-frontend/app/views/service_asset_findings/_filters.html.slim",
+		"/home/shuber/.config/sublime-text-3/Packages/User/Preferences.sublime-settings",
+		"/home/shuber/code/radar-management-center-frontend/app/helpers/service_asset_findings_controller_helper.rb",
+		"/home/shuber/code/radar-management-center-frontend/app/views/service_assets/_table_filters.html.slim",
+		"/home/shuber/code/radar-management-center-frontend/config/locales/en.yml",
+		"/home/shuber/code/radar-management-center-frontend/app/views/service_asset_findings/_show.html.slim",
+		"/home/shuber/code/radar-management-center-frontend/app/models/vulnerability_scan_comparison.rb",
+		"/home/shuber/code/radar-management-center-frontend/app/views/incidents/show.html.haml",
+		"/home/shuber/code/radar-management-center-frontend/app/views/incidents/_filters.html.haml",
+		"/home/shuber/code/radar-management-center-frontend/app/adapters/tables/finding_table.rb",
+		"/home/shuber/code/radar-management-center-frontend/app/views/findings/_finding_title.html.slim",
+		"/home/shuber/code/radar-management-center-frontend/app/views/findings/show.html.haml",
+		"/home/shuber/.config/sublime-text-3/Packages/User/Ruby Haml.sublime-settings",
+		"/home/shuber/code/radar-management-center-frontend/app/adapters/tables/service_asset_finding_table.rb",
+		"/home/shuber/code/radar-management-center-frontend/app/views/service_asset_findings/_table_body.html.haml",
+		"/home/shuber/code/radar-management-center-frontend/app/controllers/services_controller.rb",
+		"/home/shuber/code/radar-management-center-frontend/app/controllers/service_assets_controller.rb",
+		"/home/shuber/code/radar-management-center-frontend/app/controllers/application_controller.rb",
+		"/home/shuber/code/radar-management-center-frontend/app/assets/javascripts/test.es6",
+		"/home/shuber/code/radar-management-center-frontend/app/controllers/rule_sets_controller.rb",
+		"/home/shuber/code/radar-management-center-frontend/app/helpers/service_asset_groups_helper.rb",
+		"/home/shuber/code/radar-management-center-frontend/app/adapters/tables/incident_table.rb",
+		"/home/shuber/code/radar-management-center-frontend/app/assets/javascripts/vulnerability_scan_comparisons.js",
+		"/home/shuber/.config/sublime-text-3/Packages/User/SublimeLinter/base16-summerfruit (SL).tmTheme",
+		"/home/shuber/code/radar-management-center-frontend/app/helpers/application_helper.rb",
+		"/home/shuber/code/radar-management-center-frontend/tmp/nessus_report_1.nessus",
+		"/home/shuber/code/radar-management-center-frontend/app/views/service_asset_findings/show.html.haml",
+		"/home/shuber/code/radar-management-center-frontend/spec/nessus_dummy_data/nessus_report_1.nessus",
+		"/home/shuber/code/radar-management-center-frontend/spec/helpers/application_helper_spec.rb",
+		"/home/shuber/code/radar-management-center-frontend/app/assets/javascripts/asset_lookup_confs.js",
+		"/home/shuber/.config/sublime-text-3/Packages/User/SublimeLinter.sublime-settings",
+		"/home/shuber/code/radar-management-center-frontend/app/adapters/tables/service_asset_table.rb",
+		"/home/shuber/code/test.rb",
+		"/home/shuber/Downloads/node-v4.4.7-linux-x64/bin/npm",
+		"/home/shuber/Downloads/node-v4.4.7-linux-x64/README.md",
+		"/home/shuber/code/bugfixes/incidents.bugs",
+		"/home/shuber/code/radar-management-center-frontend/app/views/vulnerability_scan_comparisons/_vulnerability_details.html.slim",
+		"/home/shuber/code/radar-management-center-frontend/app/views/service_asset_findings/_mass_edit.html.haml",
+		"/home/shuber/code/radar-management-center-frontend/.git/COMMIT_EDITMSG",
+		"/home/shuber/code/at/features/rmc_change_incident_status.feature",
+		"/home/shuber/code/at/features/support/test_settings.yml",
+		"/home/shuber/code/at/features/support/env.rb",
+		"/home/shuber/code/at/features/step_definitions/common_steps.rb",
+		"/home/shuber/Desktop/single_regex.rb",
+		"/home/shuber/Desktop/joined_regex.rb",
+		"/home/shuber/code/at/features/step_definitions/rmc_change_incident_status_steps.rb",
+		"/home/shuber/.bashrc",
+		"/home/shuber/.tmuxinator/at.yml",
+		"/home/shuber/.tmuxinator/rmcf.yml",
+		"/home/shuber/.tmuxinator/rmca.yml",
+		"/home/shuber/code/radar-information-center/single_regex.rb",
+		"/home/shuber/Desktop/with_defs.rb",
+		"/home/shuber/code/radar-information-center/joined_regex.rb",
+		"/home/shuber/code/at/features/support/test_settings.yml.template",
+		"/home/shuber/code/at/features/step_definitions/incidents/common_steps.rb",
+		"/home/shuber/code/at/features/support/hooks.erb",
+		"/home/shuber/code/at/features/step_definitions/sort_incidents_table_steps.rb",
+		"/home/shuber/code/at/features/sort_incidents_table.feature",
+		"/home/shuber/code/at/features/status_pills_count.feature",
+		"/home/shuber/code/at/features/login.feature",
+		"/home/shuber/code/at/features/step_definitions/login_page_steps.rb",
+		"/home/shuber/code/radar-management-center-api/spec/models/finding_spec.rb",
+		"/home/shuber/code/radar-management-center-api/spec/factories/users.rb",
+		"/home/shuber/code/radar-management-center-api/spec/factories/groups.rb",
+		"/home/shuber/code/radar-management-center-api/spec/models/user_spec.rb",
+		"/home/shuber/code/radar-management-center-api/app/models/user.rb"
+	],
+	"find":
+	{
+		"height": 70.0
+	},
+	"find_in_files":
+	{
+		"height": 158.0,
+		"where_history":
+		[
+			"<current project>",
+			"<current project>, *.js",
+			"<current project>",
+			"<current project>, *.js",
+			"<current project>",
+			"<current project>, *.js",
+			"<current project>",
+			"<current project>, *.js\n",
+			"<current project>\n",
+			"<current project>, *.js",
+			"<current project>",
+			"<current project>, *.js",
+			"<current project>",
+			"<current project>, *.js",
+			"<current project>",
+			"<current project>, *.js",
+			"<current project>",
+			"<current project>, *.js",
+			"<current project>",
+			"/node_modules/jquery-validation",
+			"/node_modules/jquery-validation/lib",
+			"<current project>",
+			"*.scss",
+			"<current project>",
+			"<current file>",
+			"<current project>",
+			"*.yaml",
+			"*.haml",
+			"<current project>",
+			"*.js",
+			"<current project>",
+			"*.nessus",
+			"<current project>",
+			"",
+			"*.js",
+			"<current project>",
+			"*.js",
+			"<current project>",
+			"<current file>",
+			"<current project>",
+			"*.slim",
+			"*.haml",
+			"<current project>, *.haml",
+			"<current project> *.haml",
+			"<current project>",
+			"/home/shuber/code/at",
+			"<current file>",
+			"/home/shuber/code/at",
+			"<current file>",
+			"/home/shuber/code/at",
+			"<current file>",
+			"/home/shuber/code/at",
+			"/at",
+			"",
+			"/home/shuber/code/radar-management-center-frontend",
+			"/home/shuber/code/radar-information-center",
+			"/home/shuber/code/radar-management-center-api",
+			"",
+			"<current file>",
+			"",
+			"<current file>",
+			"",
+			"<current file>",
+			"",
+			"<current file>",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"moment",
+			"yarn",
+			"EJS",
+			"EJS.",
+			"EJS.compile",
+			"moment",
+			"img",
+			"jquery-ui",
+			"size",
+			"size()",
+			"count()",
+			"Wizard",
+			"tablesorter",
+			"powertip",
+			"purl(",
+			".url",
+			"nav-tabs",
+			".tabdrop",
+			"powertipable",
+			".powertipable",
+			".powertip",
+			"tablesorter",
+			".tablesorter",
+			"object",
+			"nav-tabs",
+			".nav-tabs",
+			".tabdrop",
+			"upload_document_button",
+			".filestyle",
+			"Powertip",
+			"'powertip'",
+			"nestable",
+			"hoverIntent",
+			"table_sort",
+			"$.url",
+			"table_sort",
+			"$",
+			"url",
+			"purl",
+			"module.exports",
+			"service_asset_count_with_popover",
+			"powertip",
+			"browserify",
+			"markitup",
+			"select2",
+			"purl",
+			"markitup",
+			"jquery",
+			"2.2.1",
+			"bundle",
+			"jQuery",
+			"validator",
+			"jQuery.validator",
+			"setDefaults",
+			"// initializing element and component attributes",
+			"validator",
+			"jquery-validation",
+			"sprocket",
+			"with_scan_error",
+			"erroneous_vulnerability_host_count",
+			"update",
+			"authenticated",
+			"authenticated ",
+			"authenticated",
+			"authenticated_popover",
+			"authentication-info-container",
+			"authenticat_info_container",
+			"select2-container",
+			"_filters_tag_id",
+			"s2id_filters_tag_id",
+			"this",
+			"screen-md-min",
+			"$screen-md-min",
+			" $screen-md-min",
+			"$screen-md-min",
+			"@media",
+			"panel-heading",
+			"ip",
+			"from_to",
+			"last_occurence_from_to",
+			"ip",
+			"\n",
+			"ip",
+			"incidents:",
+			"incidents",
+			"id",
+			"ip",
+			"service_asset_finding_options",
+			"ServiceAssetFinding.query",
+			"ServiceAssetFinding.query.filter(",
+			"ServiceAssetFinding.query.filter(ip:",
+			"ServiceAssetFinding.query.filter(ip: '1.2.3.4')",
+			"close_details",
+			"expand_table",
+			".expand_table",
+			"filters.expand_table",
+			"incidents.filters.expand_table",
+			"view.incidents.filters.expand_table",
+			".incidents.filters.expand_table",
+			"view.incidents.filters.expand_table",
+			"incident",
+			"incidents",
+			"service_asset_finding",
+			"details\\.",
+			"panel",
+			"(filter|ip)",
+			"filters[last_scan_from]",
+			"last_scan_from",
+			"filters[last_scan_from]",
+			"params",
+			"ajax",
+			"init_select2",
+			"submit",
+			"options",
+			" .",
+			"@objects",
+			"filter",
+			"object",
+			"tag_titles",
+			"get_locations",
+			"set_assignment_options",
+			"order",
+			"objects",
+			"Table",
+			"descriptor",
+			"table_renderer",
+			"service_asset_findings",
+			"service_asset_finding"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"",
+			".",
+			".\n",
+			"\n",
+			"title",
+			"displayedTitle",
+			"wait_until_incidents_table_loaded",
+			"wait_until_table_loaded",
+			"",
+			"\"",
+			"",
+			"'",
+			".",
+			""
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "app/assets/javascripts/application.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 797,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								713,
+								713
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/assets/javascripts/users.js",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2015,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1188,
+								1188
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 750.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "app/assets/stylesheets/users.scss",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 484,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								188,
+								188
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Sass/Syntaxes/Sass.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/assets/stylesheets/application.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 732,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								732,
+								732
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LESS/LESS.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/views/users/index.html.erb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 266,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								14,
+								14
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Rails/HTML (Rails).sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/controllers/users_controller.rb",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1777,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1048,
+								1048
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 71.0
+	},
+	"input":
+	{
+		"height": 66.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 320.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "vue.sublime-project",
+	"replace":
+	{
+		"height": 114.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"application.js",
+				"app/assets/javascripts/application.js"
+			],
+			[
+				"occurence",
+				"app/models/occurrence.rb"
+			],
+			[
+				"package",
+				"package.json"
+			],
+			[
+				"yarn",
+				"yarn.lock"
+			],
+			[
+				"gemfile",
+				"Gemfile"
+			],
+			[
+				"logmulerulecont",
+				"app/controllers/logmule/rules_controller.rb"
+			],
+			[
+				"logmulerule",
+				"app/models/logmule/rule.rb"
+			],
+			[
+				"configap",
+				"config/application.rb"
+			],
+			[
+				"gemfile.lock",
+				"Gemfile.lock"
+			],
+			[
+				"yarn.lock",
+				"yarn.lock"
+			],
+			[
+				"configappli",
+				"config/application.rb"
+			],
+			[
+				"appviewlayouapp",
+				"app/views/layouts/application.html.slim"
+			],
+			[
+				"cofigapplic",
+				"config/application.rb"
+			],
+			[
+				"modeluser",
+				"app/models/user.rb"
+			],
+			[
+				"vulnscantablefilter",
+				"app/views/vulnerability_scans/_table_filters.html.slim"
+			],
+			[
+				"reportperiodsindex",
+				"app/views/report_periods/index.html.slim"
+			],
+			[
+				"routes",
+				"config/routes.rb"
+			],
+			[
+				"manualsourcejs",
+				"app/assets/javascripts/manual_sources.js"
+			],
+			[
+				"vulnscancomp",
+				"app/controllers/vulnerability_scan_comparisons_controller.rb"
+			],
+			[
+				"safc",
+				"app/controllers/service_asset_findings_controller.rb"
+			],
+			[
+				"vulscancomp",
+				"app/controllers/vulnerability_scan_comparisons_controller.rb"
+			],
+			[
+				"gem",
+				"Gemfile"
+			],
+			[
+				"findingfilter",
+				"app/views/service_asset_findings/_filters.html.slim"
+			],
+			[
+				"findingshow",
+				"app/views/findings/show.html.slim"
+			],
+			[
+				"finding.js",
+				"app/assets/javascripts/findings.js"
+			],
+			[
+				"vulnerscancom",
+				"app/views/vulnerability_scan_comparisons/_body.html.slim"
+			],
+			[
+				"incidne",
+				"app/models/incident.rb"
+			],
+			[
+				"serviceassetfinding",
+				"app/models/service_asset_finding.rb"
+			],
+			[
+				"service_asset_findings/_filters.html.slim",
+				"app/views/service_asset_findings/_filters.html.slim"
+			],
+			[
+				"assetfilter",
+				"app/views/service_assets/_table_filters.html.slim"
+			],
+			[
+				"viewassetfilter",
+				"app/views/service_asset_findings/_filters.html.slim"
+			],
+			[
+				"viewassetindex",
+				"app/views/service_asset_findings/table_index.html.slim"
+			],
+			[
+				"viewasset",
+				"app/views/manual_sources/_asset_form.html.slim"
+			],
+			[
+				"/service_asset_findings/_show.html.slim",
+				"app/views/service_asset_findings/_show.html.slim"
+			],
+			[
+				"saf_",
+				"app/views/service_asset_findings/_filters.html.slim"
+			],
+			[
+				"/findings/show.html.slim",
+				"app/views/findings/show.html.slim"
+			],
+			[
+				"en.yml",
+				"config/locales/en.yml"
+			],
+			[
+				"saf.js",
+				"app/assets/javascripts/service_asset_findings.js"
+			],
+			[
+				"saffilter",
+				"app/views/service_asset_findings/_filters.html.slim"
+			],
+			[
+				"finding",
+				"app/assets/javascripts/findings.js"
+			],
+			[
+				"safcon",
+				"app/controllers/service_asset_findings_controller.rb"
+			],
+			[
+				"saf",
+				"app/models/service_asset_finding.rb"
+			],
+			[
+				"incident/show",
+				"app/views/incidents/show.html.haml"
+			],
+			[
+				"vulnerabilityscancomparison",
+				"app/models/vulnerability_scan_comparison.rb"
+			],
+			[
+				"findings.js",
+				"app/assets/javascripts/findings.js"
+			],
+			[
+				"service_asset_findingshow",
+				"app/views/service_asset_findings/show.html.haml"
+			],
+			[
+				"regex",
+				"radar-information-center/joined_regex.rb"
+			],
+			[
+				"single",
+				"radar-information-center/single_regex.rb"
+			],
+			[
+				"finding_spec",
+				"radar-management-center-api/spec/models/finding_spec.rb"
+			],
+			[
+				"user_controller",
+				"radar-management-center-api/app/controllers/users_controller.rb"
+			],
+			[
+				"group",
+				"radar-management-center-api/app/controllers/groups_controller.rb"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "rmca",
+		"selected_items":
+		[
+			[
+				"rmca",
+				"~/sublime projects/rmca.sublime-project"
+			],
+			[
+				"rmcf",
+				"~/sublime projects/rmcf.sublime-project"
+			],
+			[
+				"ric",
+				"~/sublime projects/ric.sublime-project"
+			],
+			[
+				"rmf",
+				"~/sublime projects/rmcf.sublime-project"
+			],
+			[
+				"at",
+				"~/sublime projects/at.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 395.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

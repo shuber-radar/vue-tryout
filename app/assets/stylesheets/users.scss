@@ -1,0 +1,51 @@
+// Place all the styles related to the Users controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+
+#users {
+  height: 100%;
+  width: 100%;
+
+  .display-users {
+    float: right;
+    padding-right: 50px;
+  }
+
+  .user-form {
+    padding-bottom: 20px;
+    width: 250px;
+
+    button {
+      float: right;
+    }
+
+    &:after {
+      display: block;
+      content: '';
+      clear: both;
+    }
+
+    &.success {
+      animation-name: fade-out;
+      animation-duration: 0.4s;
+    }
+  }
+
+  &.success {
+    animation-name: fade-out;
+    animation-duration: 0.4s;
+  }
+
+  @keyframes fade-out {
+      0% {
+        background-color: #FFF;
+      }
+      20% {
+        background-color: #5C5;
+      }
+      100% {
+        background-color: #FFF;
+      }
+  }
+}
+

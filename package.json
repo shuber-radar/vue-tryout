@@ -1,0 +1,16 @@
+{
+  "name": "vue",
+  "version": "1.0.0",
+  "description": "test repo",
+  "main": " ",
+  "repository": {
+    "url": " ",
+    "type": "git"
+  },
+  "author": "Sebastian Huber <shuber@radarservices.com>",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "vue": "^2.0.5",
+    "vue-resource": "^1.0.3"
+  }
+}
