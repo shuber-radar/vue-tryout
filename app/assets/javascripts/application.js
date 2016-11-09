@@ -18,9 +18,4 @@
 //= require users/users.js
 //= require home/home.js
 //= require components/navigation.js
-
-Vue.http.headers.common['X-CSRF-Token'] = $('[name="csrf-token"]').attr('content');
-
-var vm = new Vue({
-  el: '#app',
-});
+//= require app.js
