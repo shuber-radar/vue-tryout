@@ -6,8 +6,10 @@
   <%= csrf_meta_tags %>
 </head>
 <body>
-
-<%= yield %>
+  <div id="app">
+    <navigation-component></navigation-component>
+    <%= yield %>
+  </div>
   <%= javascript_include_tag 'application' %>
 </body>
 </html>

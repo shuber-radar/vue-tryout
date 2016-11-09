@@ -1,0 +1,25 @@
+.navigation-component {
+  padding: 10px;
+  background-color: #cdefff;
+
+  h1 {
+    float: left;
+  }
+
+  ul {
+    padding-top: 10px;
+    float: left;
+
+    li {
+      width: 120px;
+      display: block;
+      float: left;
+    }
+  }
+
+  &:after {
+    content: '';
+    display: block;
+    clear: both;
+  }
+}

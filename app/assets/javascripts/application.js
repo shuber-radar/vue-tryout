@@ -12,8 +12,15 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require js-routes
 //= require vue/dist/vue.js
 //= require vue-resource/dist/vue-resource.js
 //= require users/users.js
+//= require home/home.js
+//= require components/navigation.js
 
 Vue.http.headers.common['X-CSRF-Token'] = $('[name="csrf-token"]').attr('content');
+
+var vm = new Vue({
+  el: '#app',
+});

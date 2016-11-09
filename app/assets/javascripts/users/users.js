@@ -5,12 +5,24 @@
 //= require users/user-edit.js
 //= require users/user-display.js
 
-var usersViewModel = new Vue({
-  el: '#users',
+Vue.component('user-component', {
+  template: `<div>
+    <h1>Users</h1>
+    <div id="users" v-bind:class="{ success: success }">
+      <div class="user-display">
+        <ul>
+          <user-display v-for="user in users" :user="user"></user-display>
+        </ul>
+      </div>
+      <user-forms :users="users"></user-forms>
+    </div>
+  </div>`,
 
-  data: {
-    success: false,
-    users: null
+  data: function(){
+    return {
+      success: false,
+      users: null
+    };
   },
   created: function () {
     this.fetchData()
