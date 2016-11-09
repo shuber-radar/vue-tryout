@@ -1,0 +1,5 @@
+.main-navigation{padding:10px;background-color:#cdefff}.main-navigation h1{float:left}.main-navigation ul{padding-top:10px;float:left}.main-navigation ul li{width:120px;display:block;float:left}.main-navigation:after{content:'';display:block;clear:both}
+#users{height:100%;width:100%}#users .success{animation-name:fade-out;animation-duration:.4s}@keyframes fade-out{0%{background-color:#fff}20%{background-color:#5c5}to{background-color:#fff}}
+.user-overview{float:right;padding-right:50px}
+.user-forms{width:250px;padding:10px}.user-forms>button{float:right;margin-right:10px}
+.user-edit{padding:10px;padding-bottom:20px}.user-edit button{float:right}.user-edit:after{display:block;content:'';clear:both}

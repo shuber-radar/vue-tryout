@@ -10,12 +10,5 @@
 // Read Sprockets README (https://github.com/rails/sprockets#sprockets-directives) for details
 // about supported directives.
 //
-//= require jquery
-//= require jquery_ujs
 //= require js-routes
-//= require vue/dist/vue.js
-//= require vue-resource/dist/vue-resource.js
-//= require users/users.js
-//= require home/home.js
-//= require components/navigation.js
 //= require app.js
