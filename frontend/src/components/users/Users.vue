@@ -25,7 +25,8 @@ export default {
     return {
       success: false,
       users: null,
-      errormsg: null
+      errormsg: null,
+      foo: 'bar'
     }
   },
   created () {
@@ -60,6 +61,7 @@ export default {
 #users {
   height: 100%;
   width: 100%;
+  background-color: green;
 
   .success {
     animation-name: fade-out;

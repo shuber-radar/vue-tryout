@@ -15,6 +15,7 @@ Vue.http.headers.common['X-CSRF-Token'] =
 // rendering Vue
 new Vue({ // eslint-disable-line no-new
   el: '#app',
+  store,
   components: {
     Users,
     MainNavigation
